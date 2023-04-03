@@ -1,2 +1,5 @@
 # Trending-repositories
-For personal use
+
+
+Will refer to these later
+https://github.com/twitter/the-algorithm.git
